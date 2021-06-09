@@ -1,3 +1,7 @@
+#https://github.com/drh/lcc/issues/20
+#https://github.com/drh/lcc
+
+
 ARG DOCKER_IMAGE=i386/ubuntu:focal
 FROM $DOCKER_IMAGE AS builder
 

@@ -20,7 +20,7 @@
 #//  CPU: ALL                                                //
 #//                                                          //
 #//////////////////////////////////////////////////////////////
-BASE_IMAGE := alpine:latest
+BASE_IMAGE := i386/ubuntu:focal
 IMAGE_NAME := bensuperpc/lcc
 DOCKERFILE := Dockerfile
 
